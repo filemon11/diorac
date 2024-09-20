@@ -1,3 +1,7 @@
+Fork of https://github.com/iesl/diora/
+
+Original README:
+
 ## DIORA
 
 This is the official repo for our NAACL 2019 paper Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders (DIORA), which presents a fully-unsupervised method for discovering syntax. If you use this code for research, please cite our paper as follows:
